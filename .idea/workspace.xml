@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="90f0815d-173a-462c-b631-60c32acb5470" name="Default Changelist" comment="0615">
-      <change afterPath="$PROJECT_DIR$/reward_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_fileModifiedTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getdefaultencoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str_encode_decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiujiu.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiujiu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reward_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/reward_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCopy.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCopy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testDeepCopy.py" beforeDir="false" afterPath="$PROJECT_DIR$/testDeepCopy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFuzhi.py" beforeDir="false" afterPath="$PROJECT_DIR$/testFuzhi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +60,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Python.tets">
-    <configuration name="jiujiu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.testFile">
+    <configuration name="example_fileModifiedTime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_learn_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiujiu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example_fileModifiedTime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -55,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reward_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="getdefaultencoding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_learn_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reward_demo.py" />
+      <option name="SCRIPT_NAME" value="D:\Codeing\py_learn_01\getdefaultencoding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="str_encode_decode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_learn_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str_encode_decode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testDeepCopy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_learn_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testDeepCopy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_learn_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tets" />
-        <item itemvalue="Python.reward_demo" />
-        <item itemvalue="Python.jiujiu" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.testDeepCopy" />
+        <item itemvalue="Python.testFile" />
+        <item itemvalue="Python.getdefaultencoding" />
+        <item itemvalue="Python.str_encode_decode" />
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.example_fileModifiedTime" />
       </list>
     </recent_temporary>
   </component>
@@ -174,8 +204,27 @@
       <option name="project" value="LOCAL" />
       <updated>1592224816209</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="0615">
+      <created>1592228823604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592228823604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0615" />
@@ -194,53 +243,53 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="862" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592219346552" />
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1592228330014">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1592385972249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592228330014" />
-    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1592228330013">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592385972249" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1592385972249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592228330013" />
-    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1592228330013">
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592385972249" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1592385972249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592228330013" />
-    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1592228330014">
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592385972249" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1592385972249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592228330014" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1592224723168">
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592385972249" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1592233859220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592224723168" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1592224723168">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592233859220" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1592233859220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592224723168" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1592224723168">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592233859220" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1592233859220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592224723168" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1592224723168">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592233859220" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1592233859220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592224723168" />
-    <state x="510" y="164" key="SettingsEditor" timestamp="1592219288074">
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592233859220" />
+    <state x="510" y="164" key="SettingsEditor" timestamp="1592382447315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="510" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592219288074" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592228819035">
+    <state x="510" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592382447315" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592228828072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592228819035" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592228828072" />
     <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592222503271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592222503271" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592227005004">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592290686656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592227005004" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592290686656" />
   </component>
 </project>
