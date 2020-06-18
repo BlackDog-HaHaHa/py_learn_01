@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90f0815d-173a-462c-b631-60c32acb5470" name="Default Changelist" comment="0617">
-      <change afterPath="$PROJECT_DIR$/111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_conf.py" afterDir="false" />
+    <list default="true" id="90f0815d-173a-462c-b631-60c32acb5470" name="Default Changelist" comment="0618">
+      <change afterPath="$PROJECT_DIR$/write_conf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Python.read_conf">
+  <component name="RunManager" selected="Python.write_conf">
     <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_learn_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,27 +116,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lx_tailf_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_learn_01" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Codeing\py_learn_01\lx_tailf_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="read_conf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_learn_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,13 +137,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="write_conf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_learn_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/write_conf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.write_conf" />
         <item itemvalue="Python.read_conf" />
         <item itemvalue="Python.111" />
         <item itemvalue="Python.example_deserialization" />
         <item itemvalue="Python.example_serialize" />
-        <item itemvalue="Python.lx_tailf_test" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592395524482</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="0618">
+      <created>1592481758315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592481758315</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +246,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0615" />
     <MESSAGE value="0617" />
-    <option name="LAST_COMMIT_MESSAGE" value="0617" />
+    <MESSAGE value="0618" />
+    <option name="LAST_COMMIT_MESSAGE" value="0618" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592395158510">
@@ -259,22 +266,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="862" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592219346552" />
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1592481285090">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1592481879493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592481285090" />
-    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1592481285089">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592481879493" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1592481879493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592481285089" />
-    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1592481285089">
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592481879493" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1592481879493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592481285089" />
-    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1592481285089">
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592481879493" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1592481879493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592481285089" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592481879493" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1592233859220">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -295,10 +302,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="510" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592382447315" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592395629699">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592481869319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592395629699" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592481869319" />
     <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592222503271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
