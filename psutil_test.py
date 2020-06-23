@@ -17,7 +17,7 @@ def find_procs_by_name_1(name):
 # a = find_procs_by_name_1('TIM.exe')
 # print(a)
 
-
+# 按名称查找进程相关信息 2
 def find_procs_by_name_2(name):
     ls = []
     for p in psutil.process_iter(attrs=["name","exe","cmdline"]):
@@ -29,3 +29,37 @@ def find_procs_by_name_2(name):
 
 # a = find_procs_by_name_2('TIM.exe')
 # print(a)
+
+
+# 杀死进程树
+def kill_proc_tree(pid,sig=signal.SIGTERM,include_parent=True,
+                   timeout=None,on_terminate=None):
+    if pid == os.getpid():
+        raise RuntimeError("I refuse to kill myself")
+    parent = psutil.Process(pid)
+    children = parent.children(recursive=True)
+    if include_parent:
+        children.append(parent)
+    for p in children:
+        p.send_signal(sig)
+    gone, alive = psutil.wait_procs(children,timeout=timeout,callback=on_terminate)
+    return gone,alive
+
+
+# 杀死子进程
+def reap_children(timeout=3):
+    def on_terminate(proc):
+        print("process {} terminated with exit code {}".format(proc,proc.returncode))
+    procs = psutil.Process().children()
+    # send SIGTERM
+    for p in procs:
+        p.terminate()
+    gone,alive = psutil.wait_procs(procs,timeout=timeout,callback=on_terminate)
+    if alive:
+        for p in alive:
+            print("process {} survived SIGTERM; trying SIGKILL" % p)
+            p.kill()
+        gone, alive = psutil.wait_procs(alive,timeout=timeout,callback=on_terminate)
+        if alive:
+            for p in alive:
+                print("process {} survived SIGKILL; giving up" % p)
